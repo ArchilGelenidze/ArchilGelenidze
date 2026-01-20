@@ -28,7 +28,31 @@
 </div>
 
  ---
-### 📈 My Featured Project
+# My Featured Projects
+
+## 🇬🇪 Georgian Currency Rates [Telegram Bot](https://t.me/ge_curr_bot) (actual)
+
+A Telegram bot that automatically monitors and publishes currency exchange rates in Georgia.
+
+### 🔗 The bot link: https://t.me/ge_curr_bot
+
+### 📌 Purpose
+
+The bot collects up-to-date exchange rates (USD, EUR, GBP, RUB, etc.) from major Georgian organizations every 5 minutes and posts them to a Telegram channel. It helps users stay informed about the current market rates for better financial decisions.
+
+### ✨ Features
+
+- **Automatic Updates:** Fetches new rates every 5 minutes (configurable interval).
+    
+- **Multiple Sources:** Gathers data from reliable Georgian banks and exchange services.
+    
+- **Clean Formatting:** Publishes well-structured, easy-to-read messages in the Telegram.
+    
+- **Main Currencies:** USD, EUR, GBP, RUB, AZN, AMD, TRY
+
+---
+
+### 📈 Simple social network (not active)
 
 🗣 **[FastAPI Social Network](https://github.com/ArchilGelenidze/FastAPI_social_net)**  
 A RESTful backend built with FastAPI, PostgreSQL, and Docker.  
