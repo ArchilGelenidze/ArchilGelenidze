@@ -27,28 +27,17 @@
   <img width="12" />
 </div>
 
- ---
-# My Featured Projects
+### My Featured Projects
+--- 
 
-## 🇬🇪 Georgian Currency Rates [Telegram Bot](https://t.me/ge_curr_bot) (actual)
 
-A Telegram bot that automatically monitors and publishes currency exchange rates in Georgia.
+### 🇬🇪 Georgian Currency Rates [Telegram Bot](https://t.me/ge_curr_bot)
+
+#### A Telegram bot that automatically monitors and publishes currency exchange rates in Georgia.
+### 📌 Purpose
+The bot collects up-to-date exchange rates **(USD, EUR, GBP, RUB**, etc.) from major Georgian organizations every 5 minutes and sends them to You in Telegram. It helps users stay informed about the current market rates for better financial decisions.
 
 ### 🔗 The bot link: https://t.me/ge_curr_bot
-
-### 📌 Purpose
-
-The bot collects up-to-date exchange rates (USD, EUR, GBP, RUB, etc.) from major Georgian organizations every 5 minutes and posts them to a Telegram channel. It helps users stay informed about the current market rates for better financial decisions.
-
-### ✨ Features
-
-- **Automatic Updates:** Fetches new rates every 5 minutes (configurable interval).
-    
-- **Multiple Sources:** Gathers data from reliable Georgian banks and exchange services.
-    
-- **Clean Formatting:** Publishes well-structured, easy-to-read messages in the Telegram.
-    
-- **Main Currencies:** USD, EUR, GBP, RUB, AZN, AMD, TRY
 
 ---
 
