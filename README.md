@@ -29,6 +29,19 @@
 
 ### My Featured Projects
 --- 
+### [🌐 Currency Exchange Aggregator (Web Service)](https://aggregator.ge/)
+
+#### A minimalist, production-ready web platform for aggregating current exchange rates in Georgia 🇬🇪
+
+### 📌 **Architecture & Tech Stack**
+
+An asynchronous REST API with **FastAPI**, **PostgreSQL**, and **SQLAlchemy**. Integrated **Celery** and **RabbitMQ** for automated background data parsing and database cleanup.
+The entire backend infrastructure is containerized via **Docker** and deployed on a VPS using **Nginx**.
+The frontend is a SPA built with **React**.
+
+### 🔗 **Website:** [https://aggregator.ge/](https://aggregator.ge/)
+
+---
 
 
 ### 🇬🇪 Georgian Currency Rates [Telegram Bot](https://t.me/ge_curr_bot)
