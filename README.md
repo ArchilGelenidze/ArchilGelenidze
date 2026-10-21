@@ -40,32 +40,3 @@ The entire backend infrastructure is containerized via **Docker** and deployed o
 The frontend is a SPA built with **React**.
 
 ### 🔗 **Website:** [https://aggregator.ge/](https://aggregator.ge/)
-
----
-
-
-### 🇬🇪 Georgian Currency Rates [Telegram Bot](https://t.me/ge_curr_bot)
-
-#### A Telegram bot that automatically monitors and publishes currency exchange rates in Georgia.
-### 📌 Purpose
-The bot collects up-to-date exchange rates **(USD, EUR, GBP, RUB**, etc.) from major Georgian organizations every 5 minutes and sends them to You in Telegram. It helps users stay informed about the current market rates for better financial decisions.
-
-### 🔗 The bot link: https://t.me/ge_curr_bot
-
----
-
-### 📈 Simple social network (not active)
-
-🗣 **[FastAPI Social Network](https://github.com/ArchilGelenidze/FastAPI_social_net)**  
-A RESTful backend built with FastAPI, PostgreSQL, and Docker.  
-Includes JWT authentication, Alembic migrations, and CI/CD via GitHub Actions.
-
-🌐 [Website](https://www.agsocial.site/)  
-📜 [Docs](https://www.agsocial.site/docs)
-
-#
-<p align="center">
-  <a href="https://t.me/ArchilGe"><img src="https://img.shields.io/badge/Telegram-white?logo=telegram"></a>
-  <a href="mailto:archil@example.com"><img src="https://img.shields.io/badge/Email-mainpost.ge@gmail.com-red?logo=gmail"></a>
-  <a href="https://www.facebook.com/archil.gelenidze.2025/"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook"></a>
-</p>
